@@ -15,7 +15,7 @@ namespace Program
             int dias = meses * 30;
 
             Console.WriteLine(" A sua idade em meses totaliza: " + (meses) + " " + "meses.");
-            Console.WriteLine(" Já em dias totaliza :" + (dias) + " " + "dias.");
+            Console.WriteLine(" Já em dias totaliza: " + (dias) + " " + "dias.");
         }
     }
 }
